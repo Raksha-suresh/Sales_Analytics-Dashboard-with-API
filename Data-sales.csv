@@ -1,0 +1,11 @@
+order_id,date,product,category,quantity,price
+1001,2025-10-01,Widget A,Widgets,2,19.99
+1002,2025-10-01,Gadget B,Gadgets,1,49.99
+1003,2025-10-02,Widget A,Widgets,1,19.99
+1004,2025-10-03,Widget C,Widgets,5,9.99
+1005,2025-10-03,Gadget B,Gadgets,2,49.99
+1006,2025-10-04,Widget A,Widgets,3,19.99
+1007,2025-10-05,Thingamajig,Things,4,5.50
+1008,2025-10-06,Gadget D,Gadgets,1,99.99
+1009,2025-10-07,Widget C,Widgets,2,9.99
+1010,2025-10-08,Widget B,Widgets,1,14.99
